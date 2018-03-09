@@ -1,0 +1,50 @@
+1,11;15;18,2016-6-24,16:56,No description
+2,1;5;19;17,2016-6-24,8:40,No description
+4,2;12;5,2016-9-30,12:45,Great View
+3,3;1;2,2016-3-13,14:30,No description
+6,4;5;15,2016-2-19,18:10,Awesome places
+7,8;11;30,2016-8-23,16:56,Great Zoo
+5,10;9;6;60,2016-12-24,17:08,Nice landscapes
+10,9;19;10,2016-6-24,6:29,No description
+12,7;11;13;17,2016-1-30,11:40,Great mountains
+13,1;11;17;5,2016-5-14,6:56,No description
+15,17;1;19;5,2016-8-22,16:56,Great View
+16,11;19;10;13,2016-11-24,17:57,Nice landscapes
+11,9;101;2;17,2016-1-14,16:29,No description
+17,7;19;17;1,2016-11-30,10:40,Great mountains
+18,1;11;17;10;19,2016-5-27,16:56,No description
+14,11;15;5;37;1,2017-1-14,13:26,No description
+22,1;5;33;37;25,2017-7-10,18:40,Sociable people
+24,2;12;5;29,2017-9-20,22:45,Great View
+23,27;29;37;6,2017-12-1,19:30,No description
+26,4;6;33;20,2017-12-19,21:10,Awesome places
+27,8;11;20;21,2017-3-4,19:56,Great Parks and Landmarks
+25,10;6;21;14,2017-12-3,3:08,Nice landscapes
+30,9;14,2015-9-26,6:29,No description
+32,7;11;30;27,2015-11-30,19:40,Great mountains
+33,6;21;27,2015-5-6,4:56,No description
+45,17;29,2017-8-22,23:56,Awesome beaches and places
+36,11;19;10;13;29;6,2016-1-2,17:57,Nice landscapes
+21,9;10;30;25,2017-1-1,23:29,Nice people and places
+37,37;33;39;1,2017-1-30,10:40,Great mountains
+28,39;6,2016-7-29,13:16,No description
+75,50;79;19;5;1,2016-8-20,14:56,Great View and Landscapes
+76,47;79;42;1;11;45,2016-1-14,1:57,Nice weather
+71,9;50;1;60;87,2018-11-14,16:19,No description
+77,60;50;61;62,2018-11-30,10:40,High mountains
+78,1;11;87;43;49,2017-7-24,18:56,No description
+74,11;1;87;79;53,2017-10-14,13:40,No description
+72,1;5;33;37;25;87,2017-3-30,18:41,Sociable people
+79,61;62;59,2019-9-20,22:45,Great Landscapes
+73,61;37;6,2017-12-11,19:35,No description
+66,87;79;54;56,2018-10-11,21:10,Awesome places
+67,49;47,2019-3-4,19:56,Great Parks and Landmarks
+65,42;43;45,2019-12-3,3:08,Nice landscapes
+60,50;52;53,2018-4-26,16:59,No description
+62,7;11;60;50,2015-3-30,18:40,Great mountains
+63,87;50;68,2019-1-16,14:56,No description
+55,17;29;57;54,2017-8-1,2:56,Awesome beaches
+56,29;6;87,2019-4-2,15:57,Nice landscapes
+51,37;60;50;37;87,2017-11-11,23:1,Nice places
+57,37;22;21;68;9;7;1,2018-11-30,11:48,Great mountains
+58,39;6;60;18;28;32,2019-9-19,12:16,No description

@@ -1,0 +1,10 @@
+Milka,Dark,90
+Heidi,Dark,8
+Milka,White,44
+Heidi,White,6
+Milka,Oreo,9
+Milka,Struguri,18
+Primola,Ananas,9
+Primola,Lapte,64
+Primola,Nuca Cocos,91
+Africana,Banane,9
